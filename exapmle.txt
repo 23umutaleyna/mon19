@@ -1,1 +1,3 @@
 print("hello World");
+takla at
+w tuşuna basılı tut
